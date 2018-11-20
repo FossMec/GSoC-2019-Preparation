@@ -31,3 +31,5 @@
  Knowledge level: 7
  Why do you want to apply for this organization? 
  These are some of the technologies I'm familiar with. I'd like to work on AI.
+
+I'm willing to work two hours a day on this.
