@@ -1,5 +1,5 @@
 ## GSoC-2019-Preparation
-A series of tasks for the students of MEC to progressively improve their skills and aim for Google Summer of Code. To know more contact [us](t.me/Johnover_Board)
+A series of tasks for the students of MEC to progressively improve their skills and aim for Google Summer of Code. To know more contact foss@mec.ac.in
 
 # Instructions
 - Task #1: Figuring out your dream organizations
