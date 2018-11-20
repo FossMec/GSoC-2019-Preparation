@@ -1,0 +1,10 @@
+Organization #1: INCF
+Technologies involved:Python,c/c++,cuda,xml,javascript
+Interest Level: 10
+Knowledge Level: 1
+Why this organization: I am really very intereseted in neuroscience and one day would like to pursue computational neuroscience research hence i belive that incf can be a viable stepping stone .
+What if this organization rejects your application? How will you respond?:By moving on.
+What if this organization does not come for GSoC 2019? Would your effort be useless?:i would have learned a lot about the human brain about which i have wanted learn since long and the common technologies associated with it.
+
+..
+I can put in an average of 8 hours a week for GSoC preparation.
