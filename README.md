@@ -19,10 +19,11 @@ When you are done, do the following steps:
 6. In this text file, enter the following details
     - Organization #1: Name
     - Technologies involved for this organization
-    - Interest level (between 1 and 10) [NOTE: 1 - Not keen about the idea, do not have time / 10 - Love the idea, can invest time]
-    - Knowledge level (between 1 and 10) [NOTE: 1 - Have no knowledge about the technology / 10 - Have extensive experience in that tech]
+    - Interest level (between 1 and 10) [NOTE: 1 - Not keen about the idea, do not have time, 10 - Love the idea, can invest time]
+    - Knowledge level (between 1 and 10) [NOTE: 1 - Have no knowledge about the technology, 10 - Have extensive experience in that tech]
     - Why do you want to apply for this organization?
-    - What if this organization rejects your application next year?
+    - What if this organization rejects your application next year? How will you respond?
+    - What if this organization does not return for GSoC 2019? Would your effort be in vain?
 7. Repeat the above format for how many ever organizations you have selected
 8. At the end of the document, mention how many hours per week can you put in for preparation in this organization on an average (consider all your other activities and how you can balance it to find time for this)
 9. Once done, commit and submit a pull request to the original source code in GitHub
