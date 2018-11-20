@@ -1,0 +1,25 @@
+Organization #1: Python Software Foundation
+Technologies involved for this organization: Python
+Interest level (between 1 and 10):8
+Knowledge level (between 1 and 10):7
+Why do you want to apply for this organization?: I love python
+What if this organization rejects your application next year? How will you respond?: Try again 
+What if this organization does not return for GSoC 2019? Would your effort be in vain?: NO
+
+Organization #2: BeeWare Project
+Technologies involved for this organization: Python, ios, Android, Java, javaScript
+Interest level (between 1 and 10): 6
+Knowledge level (between 1 and 10): 3 
+Why do you want to apply for this organization?: For learning new technologies
+What if this organization rejects your application next year? How will you respond?: Try again
+What if this organization does not return for GSoC 2019? Would your effort be in vain?: Never
+
+Organization #3: Internet Archive
+Technologies involved for this organization: Python, javaScript
+Interest level (between 1 and 10): 6
+Knowledge level (between 1 and 10): 5
+Why do you want to apply for this organization?: Universal Access to All Knowledge. Found it interesting
+What if this organization rejects your application next year? How will you respond?: Try again
+What if this organization does not return for GSoC 2019? Would your effort be in vain?: NO
+
+I can put in an average of 10-15 hours a week for GSoC preparation.
