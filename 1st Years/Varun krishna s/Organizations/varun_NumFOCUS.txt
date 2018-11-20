@@ -1,0 +1,10 @@
+Organization #1: NumFOCUS
+Technologies involved:Python,julia,r,javascript,c++
+Interest Level: 10
+Knowledge Level: 2
+Why this organization: I really like the tools orffered by this organisation and i seem to use it every now and then.Also id love to work on JULIA language.
+What if this organization rejects your application? How will you respond?:By moving on.
+What if this organization does not come for GSoC 2019? Would your effort be useless?:No i would still have learnt a thing or two about open source world and a lot about these products which i happen to use.
+
+..
+I can put in an average of 8 hours a week for GSoC preparation.
