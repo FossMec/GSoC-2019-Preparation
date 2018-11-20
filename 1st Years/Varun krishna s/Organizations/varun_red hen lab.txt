@@ -1,0 +1,10 @@
+Organization #3: Red Hen Lab
+Technologies involved:Python,scikit-learn,tensorflow,syntaxnet,singularity
+Interest Level: 9
+Knowledge Level: 4
+Why this organization:i am really moved by the intricacies of multimodal communication and i would really to be one of those who are able to transfer the ability to a machine.
+What if this organization rejects your application? How will you respond?: i would have learnt a lot about multi modal communication which i really like.
+What if this organization does not come for GSoC 2019? Would your effort be useless?:No i would still have learnt a thing or two about open source world and a lot about multimodal communication and get to know a few in the acdemia if luck is in my favour.
+
+..
+I can put in an average of 8 hours a week for GSoC preparation.
