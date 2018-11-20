@@ -4,7 +4,8 @@ A series of tasks for the students of MEC to progressively improve their skills 
 # Instructions
 - Task #1: Figuring out your dream organizations
 - Task #2: Updating the same in this repository
- Go to [GSoC Organizations of 2018 page](https://summerofcode.withgoogle.com/archive/2018/organizations/) and choose the ones that best align with:
+
+Go to [GSoC Organizations of 2018 page](https://summerofcode.withgoogle.com/archive/2018/organizations/) and choose the ones that best align with:
 1. Your interest in the idea or
 2. The skills you have presently (optional but preferable)
 
