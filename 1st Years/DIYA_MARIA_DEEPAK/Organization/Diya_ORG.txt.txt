@@ -1,0 +1,62 @@
+Organization #1: Django Software Foundation
+
+Technologies involved:Python, Django
+
+Interest Level: 9
+
+Knowledge Level: 5
+
+Why this organization: 
+A new generation organization dealing in the latest in technology.
+
+What if this organization rejects your application? How will you respond?:
+I will look into what went went wrong  and correct myself so as to get selected next time.
+
+What if this organization does not come for GSoC 2019? Would your effort be useless?:
+I would have learned things while preparing for this. So my efforts won't be in vain.
+
+----------------------------------------
+
+Organization #2: Python Software Foundation
+
+Technologies involved:Python
+
+Interest Level: 9
+
+Knowledge Level: 5
+
+Why this organization: 
+I can improve my knowledge of Python.
+
+What if this organization rejects your application? How will you respond?:
+I will look into what went went wrong and correct myself so as to get selected next time.
+
+What if this organization does not come for GSoC 2019? Would your effort be useless?:
+I would have learned things while preparing for this. So my efforts won't be in vain.
+
+----------------------------------------
+
+Organization #3: Sage Mathematical Software System
+
+Technologies involved:Python 3, Python, Cython, C/C++
+
+Interest Level: 8
+
+Knowledge Level: 4
+
+Why this organization: 
+I would like to learn more about mathematics in programming.
+
+What if this organization rejects your application? How will you respond?:
+I will look into what went went wrong and correct myself so as to get selected next time.
+
+What if this organization does not come for GSoC 2019? Would your effort be useless?:
+I would have learned things while preparing for this. So my efforts won't be in vain.
+
+----------------------------------------
+
+
+I can put in an average of 6 hours a week for GSoC preparation.
+
+----------------------------------------
+
