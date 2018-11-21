@@ -1,0 +1,26 @@
+Organization #1: AerospaceResearch.net
+Technologies involved:python,c/c++,vhdl,boinc,java
+Interest Level: 10
+Knowledge Level: 5
+Why this organization: Always been fascinated with AeroSpace, would love to see what all applications coding can create for the same. 
+What if this organization rejects your application? How will you respond?: Always positive (*PEACE OUT*):)
+What if this organization does not come for GSoC 2019? Would your effort be useless?: Maybe, depends on how much I am able to contribute
+
+Organization #2: BeeWare Project
+Technologies involved:python,ios,android,javascript,java
+Interest Level: 9
+Knowledge Level: 7
+Why this organization: Always ready to make coding a more welcoming environment 
+What if this organization rejects your application? How will you respond?: Always positive (*PEACE OUT*):)
+What if this organization does not come for GSoC 2019? Would your effort be useless?: Maybe, depends on how much I am able to contribute
+
+Organization #3: FOSSASIA
+Technologies involved:java,javascript,python,android,artificial intelligence
+Interest Level: 8
+Knowledge Level: 6
+Why this organization: Their slogan is improve people's lives. Why not ;) 
+What if this organization rejects your application? How will you respond?: Always positive (*PEACE OUT*):)
+What if this organization does not come for GSoC 2019? Would your effort be useless?: Maybe, depends on how much I am able to contribute
+
+..
+I can put in about 10 hours a week for GSoC preparation
