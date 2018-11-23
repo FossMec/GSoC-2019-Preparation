@@ -1,0 +1,9 @@
+ORGANIZATION #3 :  ArduPilot    
+Technologies involved for this organization: DRONES , PYTHON , LINUX , C/C++ , ROBOTICS
+Interest level:            09
+Knowledge level :          04
+Why do you want to apply for this organization? : WOULD VERY PASSIONATE ABOUT AEROSPACE AND AUTOMOBILE FIELDS ALSO INTREST TOWARS ROVERS AND DRONES
+What if this organization rejects your application next year? How will you respond? : WILL DEFINETLY TRY FOR THE SAME NEXT YEAR WITH CONFIDENCE OF ONE TIME EXPERIENCE
+What if this organization does not return for GSoC 2019? Would your effort be in vain? : DEFINETLY NOT CAUSE I HAVE SEEN OTHER ORGANISATIONS THAT RELATES TO THE SAME TECHNOLOGIES AND HENCE WILL DO A CHECK ON THOSE ONES
+
+TIME THAT I WOULD BE INTRESTED TO SPEND : 10 HOURS PER WEEK
