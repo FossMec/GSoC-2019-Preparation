@@ -1,0 +1,15 @@
+Organisation #1: XBMC Foundation
+Technologies involved: python,c/c++,github,mysql
+Interest level: 7
+Knowledge level:3
+
+Why I chose this: While reading the description about the organisation, which is an entertainment hub and an open sourced media player, I wanted to give it a try.
+ Also the projects they have done last year is quite interesting and I felt like its something I could contribute to.
+
+If the organisation rejects my proposal: Since we can have three proposals a year, my immediate response would be to focus on one of the other two
+proposasls, and focus on providing a better proposal the year after.
+
+Will my efforts be in vain? I sincerely hope not, But even then the technologies I am developing for this will surely be useful.
+
+
+
