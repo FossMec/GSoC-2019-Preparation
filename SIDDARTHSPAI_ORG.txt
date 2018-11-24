@@ -1,0 +1,44 @@
+1.Internet Archive
+Technologies involved:	Python JavaScript
+Interest: 7
+Knowledge:5
+Why I want to apply for this? I believe that an individual should have access to free and infinite amount of data and knowledge on the internet and thats exactly what internet archive offers
+If rejected: I wouldntbeen bring myself down too much.I would really like to contribute to this organization.
+If org is not selected for gsoc:I would continue to contribute towards this organisation
+
+
+2.Coala
+Technology:Python
+Interest:6
+Knwledge:6
+Why i want to apply for this? After doing a bit of research it feels like and org which is made for the one thing i hate.Debugging!!
+If rejected:I would like to contribute towards it in the future anyway
+if org not selected:I would be pretty let down by this 
+
+
+3.Sympy(specifically Symengine)
+Tech: C++ Python
+Interest:7
+Knowledge:7
+Why i want to apply?Symengine is a fast manipulation library implemented on C++
+If rejected:To be honest i wouldnt feel like contributing anymore
+if org is not selected: i would not longer feel like contributing
+
+4.Mozilla
+Tech: javascript python c++ html css
+Interest:8
+Knowledge:7
+Why i want to apply? Basically narrows down to the fact that i am the biggest fan of mozilla
+If rejected:I realize this organization will have many applicants and therefore will be tough to get accepted into.Regardless,I would like to contribute in the future
+if org is selected:I would be surprised if this org isnt selected this year.I would still have the hunger to contribute
+
+5.Debian
+Tech: js ruby c++ py
+interest:7
+Knowledge:4
+Why i want to apply? To contribut towards the mother of all opensouce orgs would truly be a dream come true
+if rejected:Will continue to stay a dream 
+if org not selected: will still have the interest to contribute
+
+I can put in 5 hours a week of prep towards GSoc. 
+
