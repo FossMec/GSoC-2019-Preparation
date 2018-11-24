@@ -1,0 +1,26 @@
+Organization #1: Mozilla
+Technologies involved: javascript, c++, rust, python, css
+Interest Level: 10
+Knowledge Level: 3
+Why this organization: Mozilla is a great open source organization. I love their products - Firefox and Thunderbird. Their project ideas include improving the interface of these and I believe it's a golden opportunity to learn and improve.
+What if this organization rejects your application? How will you respond?: It doesn't matter. I would try again.
+What if this organization does not come for GSoC 2019? Would your effort be useless?: No, by that time I would have learnt so many things.
+
+Organization #2: Python Software Foundation
+Technologies involved: python
+Interest Level: 9
+Knowledge Level: 2
+Why this organization: I love Python and would like to delve deeper into the language by learning and contributing.
+What if this organization rejects your application? How will you respond?: It doesn't matter. I would try again.
+What if this organization does not come for GSoC 2019? Would your effort be useless?: No, by that time I would have learnt so many things.
+
+Organization #3: BeeWare Project
+Technologies involved: python, ios, android, javascript, java
+Interest Level: 8
+Knowledge Level: 2
+Why this organization: They aim to take the power of Python as a language, and use it to enable users of all skill levels to develop applications with native user interfaces and also make Python available as a development language."
+What if this organization rejects your application? How will you respond?: It doesn't matter. I would try again.
+What if this organization does not come for GSoC 2019? Would your effort be useless?: No, by that time I would have learnt so many things.
+
+..
+I can put in about 15 hours a week for GSoC preparation.
