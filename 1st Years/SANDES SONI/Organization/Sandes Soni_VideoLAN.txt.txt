@@ -1,0 +1,8 @@
+Organisation #2: VideoLAN
+ ->Technologies involved : C, C++, go & vue.js
+ ->Interest level : 10
+ ->Knowledge level : 8
+ ->Reason for applying : VLC Mediaplayer is an app that i have been using fir a long time and I'm very much interested in movies and songs. So getting an oppertunity to be a part of this company to help in developing and improving the quality of the multimedia applications it would be my genuine pleasure in doing so.
+ ->If the organisation is to reject my appliction then I'll try my best in improving the skills that I lack at and try for it again if possible.
+ ->If the organisation is not to return for GSOC 2019 , I  still would not consider my efforts to be in vain since till now honestly not much efforts have been taken cause I have been really enjoying this.
+ ->Time avilable : Around 15 hours per week. 
