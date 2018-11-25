@@ -1,0 +1,31 @@
+Organization #1- Mozilla
+Technologies involved for this organization- c++,python,css,javascript
+Interest level-8
+Knowledge level-7
+Why do you want to apply to this organization- I am familiar with most of the technologies involved in this. In addition 
+the very idea that I get to contribute to a public platform like the Internet and make contributions for it also sparked my interest.
+If this organization rejects your application next year? How will you respond?- I might be a little diappinted at first but i will try for it again the next year.
+What if this organization doent return for GSoc 2019.? Will your effort be in vain?- Even if this organization doesnt return my efforts will never be 
+in vain because in the process I definetly would have learned a lot which will be of use at some point or the other
+I can spend 5 hours a week for this organization
+
+Organization #2: Bee Ware
+Technologies involved: python,ios,android,javascript,java
+Interest level:7
+Knowledge level:5
+Why this organization: i know python quite well and  hence hope that i can contriute well 
+If organization rejects application? How will you respond?- I will try again next year
+What if organization doesnt return next year? will efforts be in vain?- Never. in the process i would have learned a lot which
+will be of use later
+I can spend 4 hours a week for this organization
+
+Organization #3: FOSSASIA
+Technologies involved:java,javascript,python,android,artificial intellgence
+Interest level:7
+Knowledge level :5
+Why this organization: Its open source events were of interest to me
+What if organization rejects application? how will you respond?- i will try again next year
+If organization doesnt return next year? will effoets be in vain?- No. because i would have learned something in the process.
+I can spend 4 hours a week for this organization
+
+
