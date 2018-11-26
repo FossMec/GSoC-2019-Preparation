@@ -1,0 +1,30 @@
+#GAYATHRI_VENU
+
+
+Organization #1:Mozilla
+
+1.Technologies:Javascript,C++,Rust,Python,CSS
+2.Interest level:9
+3.Knowledge level:7
+4.I found a lot of relatable projects ideas,really looking forward to digging into some...
+5.If rejected,I will definitely give it a shot in GSoC 2020 using the things I picked up this year..(hoping it will improve my chances :P)
+6.Doesn't matter.Looking forward to the learning experience... 
+
+
+
+
+Organization #2:Django
+
+1.Technologies:Python,Django
+2.Interest level:8
+3.Knowledge level:6
+4.I wanted to try out web application developement,coz i had attended a workshop on it and found it quite interesting.
+5.If rejected,I will definitely give it a shot in GSoC 2020 using the things I picked up this year..(hoping it will improve my chances :P)
+6.Doesn't matter.Looking forward to the learning experience... 
+   
+
+Well I plan to work on GSoC for 7-9 hrs a week.That's my target as of now.:)
+
+
+#GSoC_2019
+ 
