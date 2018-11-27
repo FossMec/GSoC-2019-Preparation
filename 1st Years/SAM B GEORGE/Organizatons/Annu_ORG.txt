@@ -1,0 +1,41 @@
+1#CERN-HSF
+
+Interest level:9
+Knowledge level:4
+Why do you want to apply ?
+I am deeply interested and excited to learn more about the mysteries of the universe, about dark energy, antimatter, etc. CERN is the best-reputed organization that works in this domain.I am really passionate to contribute to this field and CERN provides me an opportunity to do so
+What if this organization rejects your application next year? How will you respond?
+I would be really sad. However, I would roll up my sleeves and try my luck the next year. I would also try to rectify my mistakes
+What if this organization does not return for GSoC 2019? Would your effort be in vain?
+I would certainly feel bad. I would try to find similar organizations that would work in this domain. I do not think that my efforts would in vain. I would gain a lot of experience from this. I believe that the journey is more important than the destination
+Hours per week that I can put in for preparation: 10 Hrs
+
+
+
+
+
+2#Open Chemistry
+
+Interest level:8
+Knowledge level:5
+Why do you want to apply?
+I am really fascinated by the world of atoms and molecules. The domain- quantum mechanics really excites me. The organization Open Chemistry gives me a chance to make some real contribution to this field.It is why I would like to apply for this org
+What if this organization rejects your application next year? How will you respond? What if this organization does not return for GSoC 2019? Would your effort be in vain?
+Same response as that of CERN HSEF
+Hours per week that I can put in for Preparation: 9 Hrs
+
+
+
+
+
+3#aimacode
+
+Interest level:8
+Knowledge level:5
+Why do you want to apply?
+The next biggest the revolution in the history of mankind would be the evolution of Artificial Intelligence. I would like to learn more about this technology and I am interested to make some real contribution to this field. The organization-aimacode provides me a golden opportunity to the same. That is why I would like to apply for this organization
+
+What if this organization rejects your application next year? How will you respond? What if this organization does not return for GSoC 2019? Would your effort be in vain?
+Same response as that of CERN HSEF
+Hours per week that I can put in for Preparation: 10 Hrs
+
