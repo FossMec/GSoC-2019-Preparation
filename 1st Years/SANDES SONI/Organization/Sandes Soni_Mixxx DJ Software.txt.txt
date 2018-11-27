@@ -1,7 +1,7 @@
 Organisation #3: Mixxx DJ Software
  ->Technologies involved : C++, audio, music, qt & realtime
  ->Interest level : 10
- ->Knowledge level : 8
+ ->Knowledge level : 7
  ->Reason for applying : Listening to music is the thing that I enjoy the most and therefore working with softwares that are based on the development of music field I would personally love this oppertunity to be involved in this field .  
  ->If the organisation is to reject my application , I would 
  ->If the organisation is not to return for GSOC 2019 , I  still would not consider my efforts to be in vain since till now honestly not much efforts have been taken cause I have been really enjoying this.
