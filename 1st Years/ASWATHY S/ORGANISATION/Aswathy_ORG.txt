@@ -1,0 +1,17 @@
+Organization #1:Bee Ware
+Technologies involved:python,ios,android,javascript,java
+Interest Level:9
+Knowledge level:6
+Why this organization: I like python and i app and language development.
+What if this organization rejects your application? How will you respond?: I will be disappointed,but i would try again next year and in the mean time i would try to keep working on such technologies that are interesting and to keep learning more.
+What if this organization does not return for GSoC 2019? Would your effort be in vain?: I would be disappointed, but i would not consider my effort to be in vain as i would have learnt something or the other.If i found working for them interesting and i liked what im learning, i would continue working and contributing to them.
+I can spend about 1 hour per day for this organisation.
+
+Organization #2:FOSSASIA
+Technologies involved:java,javascript,python,android,artificial intelligence
+Interest Level:9
+Knowledge level:6
+Why this organization: I found fossasia's ideal and its open source events very appealing  
+What if this organization rejects your application? How will you respond?: I will be disappointed,but i would try again next year and in the mean time i would try to keep working on such technologies that are interesting and to keep learning more.
+What if this organization does not return for GSoC 2019? Would your effort be in vain?: I would be disappointed, but i would not consider my effort to be in vain as i would have learnt something or the other.If i found working for them interesting and i liked what im learning, i would continue working and contributing to them.
+I can spend about 1 hour per day for this organisation.
