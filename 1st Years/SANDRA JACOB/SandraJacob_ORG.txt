@@ -1,0 +1,75 @@
+Organization #1: Scilab
+
+Technologies involved: C,C++,Java
+
+Interest level:9
+
+Knowledge level:6
+
+Why this organization?
+This organization deals with a lot of mathematical relatd topics,and maths being a topic i like, this organization  interested me. 
+
+What if this organization rejects your application?How will you respond?
+I'll look into what went wrong and rectify it,ensuring it won't happen the next time.
+
+
+What if this organization does not come for GSoC 2019?Would your effort  be useless?
+The effort that i would put in for this would help me learn a lot of new things that would prove to be useful later on.
+
+
+I can put an average of 5 hours a week for GSOC preparations.
+
+
+Organization #2:Boost
+
+Technologies involved: C++11,C++14,C++,C++17
+
+Interest level:8
+
+Knowledge level:5
+
+Why this organization?
+I can improve my knowledge on C++.
+
+
+What if this organization rejects your application?How will you respond?
+
+I'll look into what went wrong and rectify it,ensuring it won't happen the next time.
+
+What if this organization does not come for GSoC 2019?Would your effort  be useless?
+
+The effort that i would put in for this would help me learn a lot of new things that would prove to be useful later on.
+
+
+
+
+I can put an average of 5 hours a week for GSOC preparations.
+
+
+
+Organization #3:mlpack
+Technologies involved: 
+
+Interest level:7
+
+Knowledge level:5
+
+Why this organization?
+To gain knowledge about machine learning.
+
+
+What if this organization rejects your application?How will you respond?
+
+I'll look into what went wrong and rectify it,ensuring it won't happen the next time.
+
+
+What if this organization does not come for GSoC 2019?Would your effort  be useless?
+
+The effort that i would put in for this would help me learn a lot of new things that would prove to be useful later on.
+
+
+
+
+I can put an average of 5 hours a week for GSOC preparations.
+
+
