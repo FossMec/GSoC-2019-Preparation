@@ -1,0 +1,168 @@
+Organization #1:Mixx dj software
+Technologies involved:c++11, c++, qt, audio, opengl
+interest level : 9
+knowledge level: 
+		c++11	- 1
+		c++		- 8
+		qt		- 5
+		audio	- 5
+		opengl	- 1
+
+Why do you want to apply for this organization?: This oraganization mixes my passion and my career
+												 option together.I have many 
+												 idea inputs for their product and feel passionate about working on their projects,to enhance music making for all those young artists and audio technicians.
+
+What if this organization rejects your application next year? How will you respond?:
+												Gain more knowledge on the tech they use and commit more.I would reapply based on the contributions and ideas I have with me and how it would effect their product 
+
+What if this organization does not return for GSoC 2019? Would your effort be in vain?:
+												Doesn't matter I would still try to pursue it outside of GSoC atleast keep the contacts alive.Efforts would never be in vain as I would have gained so much experience and skill that will help me on my future endeavours as they revolve around the same field.
+
+I can put in an average of 7-8 hours a week for GSoC preparation.
+
+
+Organization #2:FOSS ASIA
+Technologies involve: python,java,javascript,android,php
+interest level : 9
+knowledge level:
+python		- 8
+java 		- 8
+javascript	- 8
+android		- 5
+php			- 3
+
+Why do you want to apply for this organization?: improve website design and funtionality 
+												 contribute to projects,implement ideas create projects
+
+What if this organization rejects your application next year? How will you respond?:
+												 I will reapply after trying to impliment even better funtionality and asthetic appleal and newer ideas.
+
+What if this organization does not return for GSoC 2019? Would your effort be in vain?:
+												 Efforts will not be in vain as i gain even more professional exerience on the set skills and gain knowlege on newer technologies out there.
+
+
+I can put in an average of 7-8 hours a week for GSoC preparation.
+
+Organization #3:Read the docs
+Technologies involved:python, sphinx, django, javascript, elasticsearch
+interest level : 8
+knowledge level:
+	python			- 8
+	sphinx			- 1
+	django			- 8
+	javascript		- 8
+	elasticsearch	- 1
+
+Why do you want to apply for this organization?: As I went through their website I noticed 													 how non responsive and dull it looked and 													 would love to work on its back end and 													 front end so as to give all the document 													 readers a rich experiece and help them														 learn and reatain better and have a rich 													 experience.
+
+What if this organization rejects your application next year? How will you respond?:
+												 I will reapply after trying to impliment even better funtionality and asthetic appleal.
+
+What if this organization does not return for GSoC 2019? Would your effort be in vain?:
+												 Efforts will not be in vain as i gain even more professional exerience on the set skills and gain knowlege on newer technologies out there.
+
+
+I can put in an average of 6 hours a week for GSoC preparation.
+
+
+Organization #4:Videolan
+Technologies involve: c,c++,go,vue.js
+interest level : 7
+knowledge level:
+	c 				- 8
+	c++ 			- 8
+	go 				- 1
+	vue.js 			- 4
+
+Why do you want to apply for this organization?: their website doesnt look upto mark.have a 												 lot of ideas for it also work on the 														 product if possible 
+
+What if this organization rejects your application next year? How will you respond?:
+												 I will reapply after trying to impliment even better funtionality and asthetic appleal.
+
+What if this organization does not return for GSoC 2019? Would your effort be in vain?:
+												 Efforts will not be in vain as i gain even more professional exerience on the set skills and gain knowlege on newer technologies out there.
+
+
+I can put in an average of 6 hours a week for GSoC preparation.
+
+Organization #5:Videolan
+Technologies involve: c,c++,go,vue.js
+interest level : 7
+knowledge level:
+	c 				- 8
+	c++ 			- 8
+	go 				- 1
+	vue.js 			- 4
+
+Why do you want to apply for this organization?: their website doesnt look upto mark.have a 												 lot of ideas for it also work on the 														 product if possible 
+
+What if this organization rejects your application next year? How will you respond?:
+												 I will reapply after trying to impliment even better funtionality and asthetic appleal.
+
+What if this organization does not return for GSoC 2019? Would your effort be in vain?:
+												 Efforts will not be in vain as i gain even more professional exerience on the set skills and gain knowlege on newer technologies out there.
+
+
+I can put in an average of 6 hours a week for GSoC preparation.
+
+
+Organization #6:catrobat
+Technologies involve: android,java,html5,web,javascript
+interest level : 8
+knowledge level:
+	android 		- 5
+	java 			- 8
+	html5			- 1
+	javascript 		- 8
+	web 			- 5
+
+Why do you want to apply for this organization?: improve website design and funtionality 
+
+What if this organization rejects your application next year? How will you respond?:
+												 I will reapply after trying to impliment even better funtionality and asthetic appleal.
+
+What if this organization does not return for GSoC 2019? Would your effort be in vain?:
+												 Efforts will not be in vain as i gain even more professional exerience on the set skills and gain knowlege on newer technologies out there.
+
+
+I can put in an average of 6 hours a week for GSoC preparation.
+
+Organization #7:mlpack
+Technologies involve: c++
+interest level : 7
+knowledge level:
+	c++			- 8
+
+Why do you want to apply for this organization?: improve website design and funtionality
+												 work on ml libraries and contribute code 
+
+What if this organization rejects your application next year? How will you respond?:
+												 I will reapply after trying to impliment even better funtionality 
+
+What if this organization does not return for GSoC 2019? Would your effort be in vain?:
+												 Efforts will not be in vain as i gain even more professional exerience on the set skills and gain knowlege on newer technologies out there.
+
+
+I can put in an average of 5 hours a week for GSoC preparation.
+
+Organization #8:AOSSIE
+Technologies involve: scala,isabelle proof assistant,browser extension,js/html5/css,android/					  ios
+interest level : 7
+knowledge level:
+scala						- 1
+isabelle proof assistant	- 1
+browser extension			- 5
+js/html5/css				- 8
+android/ios					- 5
+
+Why do you want to apply for this organization?: improve website design and funtionality 
+												 contribute to projects
+
+What if this organization rejects your application next year? How will you respond?:
+												 I will reapply after trying to impliment even better funtionality and asthetic appleal and newer ideas.
+
+What if this organization does not return for GSoC 2019? Would your effort be in vain?:
+												 Efforts will not be in vain as i gain even more professional exerience on the set skills and gain knowlege on newer technologies out there.
+
+
+I can put in an average of 6 hours a week for GSoC preparation.
