@@ -1,0 +1,23 @@
+#1:Blender
+Technologies involved:c,c++,python,opengl,opencl
+Interest LLevel:10
+Knowledge Level:6
+As it supports the entirety of the 3D pipeline,i would like to get involved in it
+If i am rejected next year I'll analyse my faults and work on them and will find another organisation that interests me
+I am ready to contribute 4 hours a week
+
+#2:Django
+Technologies involved:Django,Python
+Interest level :9
+Knowledge Level:5
+I love django's goal,ie,to ease the creation of complex,database-driven websites
+Failure is always good.It will always give you an another chance to rethink your decisions.Will work on and improve
+i will contribute 5 hours a week
+
+#3:AOSSIE
+Technologies involved:scala,isabelle proof assistant,browser extension ,javascript/html5/css3,android/ios
+interest level:8
+knowledge level:2
+I found it interesting as it deals with a range of technologies want to learn about
+i won't feel sad as this was my first time dealing with these techs . So failure is not a problem
+i will contribute 4 hours a week
