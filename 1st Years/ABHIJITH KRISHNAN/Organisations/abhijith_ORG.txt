@@ -1,1 +1,69 @@
+#1  Metasploit
+
+Technologies:ruby,postgresql,python,c,assembly
+
+Interest Level:9
+
+Knowledge Level:6
+
+Reason for application:I am very fond and always found pleasure in
+                       learning more about system and internet  
+                       security.
+
+Response to rejection: Would be a little sad but will be happy to get
+                       a shot at it and will sure
+                       continue to pursue it with the available
+                       resources.
+
+Incase of not returning:I consider every bit of new knowledge wont
+                        hurt you at all.So even in case of not
+                        returning it wont be in vain at all,besides
+                        it would add up to my resume after all.
+
+
+#2  Django
+Technologies:python,django
+
+Interest Level:6
+
+Knowledge Level:5
+
+Reason for application:To work for a web framework that has hands in
+                       instagram and mozilla would do a lot good to
+                       me both mentally as well as 
+                      
+
+Response to rejection: The response would almost same as that of
+                       previous case and would like to rectify the
+                       errors.
+
+Incase of not returning:I reside with the same stand that i had on
+                        the previous option.
+
+
+#3  AOSSIE
+Technologies: Scala,isabele proof assistant,browser
+              extension,javascipt/html5/css3,android/ios
+
+Interest Level:5
+
+Knowledge Level:4
+
+Reason for application:Being one of the reputed open source it would
+                       be almost be everyone's first choice.So the
+                       members would also be of great influence for
+                       me and will be worth working
+                       with them.                        
+                      
+
+Response to rejection: I stay with the same opinion that i had with
+                       the previous one.Better not getting than not 
+                       trying.
+
+Incase of not returning:Nohting more to add than what i wrote earlier
+
+
+
+Hours/week able to spend:4-5
+
 
