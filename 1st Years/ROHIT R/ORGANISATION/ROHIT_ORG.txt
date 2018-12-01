@@ -1,45 +1,26 @@
-#1 DJANGO 
-	tech-python,django
-	interest level-7
-	knowledge level-5
-	why?-want to learn more in python and django
-	rejection wouldnt affect much..focused on learning new stuff
-	if org not there next time-doesnt matter f
-ocusing on learning and contributing wherever i can
-#2 CLOUDCV
-	tech-machine learning,artificial intelligence,cloud,deep learing
-	interest level-7
-	knowledge level-1
-	why?-interested in artificial intelligence and machine learning 
-	rejection wouldnt affect much..focused on learning new stuff
-	if org not there next time-doesnt matter,focusing on learning and contributing wherever i can
-#3 Coala
+
+#1 Coala
 	tech-django,python,antlr,emberjs,reactjs
 	interest level-9
 	knowledge-4
 	why?-the idea seems interesting to have a language independant code analyser
 	rejection wouldnt affect much..focused on learning new stuff
 	if org not there next time-doesnt matter,focusing on learning and contributing wherever i can
-#4 BEEWARE
+#2 BEEWARE
 	tech-python,android,javascript,java
 	interest level-9
 	knowledge-4
 	why-interesting idea and also cause interest to learn javascript and java and implement it
 	rejection wouldnt affect much..focused on learning new stuff
 	if org not there next time-focusing on learning and contributing wherever i can
-#5 CHECKER FRAMEWORK
-	tech-java
-	interest level-9
-	knowledge-5
-	why?-interesting idea of preventing errors beforehand
-	rejection wouldnt affect much..focused on learning new stuff
-	if org not there next time-doesnt matter,focusing on learning and contributing wherever i can
-#6 QUILL
+
+#3 QUILL
 	tech-ruby,rails,javascript
 	interest level-8
 	knowledge-4
 	why?-interested in web development
 	rejection wouldnt affect much..focused on learning new stuff
 	if org not there next time-doesnt matter,focusing on learning and contributing wherever i can
+
 time planned working for gsoc per week-3-4 hrs 
 	
