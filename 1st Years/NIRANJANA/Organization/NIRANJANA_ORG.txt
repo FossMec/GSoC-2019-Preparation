@@ -1,0 +1,21 @@
+
+ 
+ +Organization:AOSSIE
+ Technology:scala, isabelle proof assistant, browser extension, javascript/html5/css3,android/ios
+ Interest level: 10
+ Knowledge level: 6
+ Why do you want to apply for this organization? 
+ I've been working on javascript/html5/css3 for a while, hence AOSSIE. 
+ What if this organization rejects your application next year? How will you respond?
+ I'd  analyse where i went wrong and work on that. Also tro to keep a backup organisation with more or less same  tecnologies involved.
+ 
+
+ 
+ +Organization:FOSSASIA
+ Technology: java,javascript,python ,android,artificial intelligence
+ Interest level:10
+ Knowledge level: 5
+ Why do you want to apply for this organization? 
+ These are some of the technologies I'm familiar with. I'd like to work on AI.
+
+I'm willing to work two hours a day on this.
