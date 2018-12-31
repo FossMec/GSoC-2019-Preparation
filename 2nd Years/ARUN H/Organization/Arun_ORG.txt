@@ -1,0 +1,86 @@
+Organization#1: Zulip
+
+Technologies involved: Python, Django, Javascript, React native, Electron
+
+Interest level: 9
+
+Knowledge level: 6
+
+Why do you want to apply for this organization?
+I want to apply for this organisation as I have knowledge in the technologies they use. I am hopeful 
+that I would be able to increase my skills to a level the organization desires and make contribtions and become a better programmer.
+
+What if this organization rejects your application next year? How will you respond?
+I would try again next year after improving my knowledge.
+
+What if this organization does not return for GSoC 2019? Would your effort be in vain?
+I would be disappointed, but my efforts would never be in vain as the contributions I make would help me improve as a 
+web developer and programmer.
+
+Amount of time which can be put in for preperation: 2.5 - 3 hrs
+
+
+Organization#2: OpenWISP
+
+Technologies involved: Python, Django, Javascript, Openwrt, Linux
+
+Interest level: 9
+
+Knowledge level: 6
+
+Why do you want to apply for this organization?
+I want to apply for this organisation as I have knowledge in the technologies they use. I am hopeful 
+that I would be able to increase my skills to a level the organization desires and make contribtions and become a better programmer.
+
+What if this organization rejects your application next year? How will you respond?
+I would try again next year after improving my knowledge.
+
+What if this organization does not return for GSoC 2019? Would your effort be in vain?
+I would be disappointed, but my efforts would never be in vain as the contributions I make would help me improve as a 
+web developer and programmer.
+
+Amount of time which can be put in for preperation: 2.5 - 3 hrs
+
+
+Organization#3: Read the Docs
+
+Technologies involved: Python, Django, Javascript, Elasticsearch, Sphinx
+
+Interest level: 9
+
+Knowledge level: 5
+
+Why do you want to apply for this organization?
+I want to apply for this organisation as I have knowledge in the technologies they use. I am hopeful 
+that I would be able to increase my skills to a level the organization desires and make contribtions and become a better programmer.
+
+What if this organization rejects your application next year? How will you respond?
+I would try again next year after improving my knowledge.
+
+What if this organization does not return for GSoC 2019? Would your effort be in vain?
+I would be disappointed, but my efforts would never be in vain as the contributions I make would help me improve as a 
+web developer and programmer.
+
+Amount of time which can be put in for preperation: 2.5 - 3 hrs
+
+
+Organization#4: EvalAI
+
+Technologies involved: Machine learning, Deep learning, Computer vision, Artificial intelligence, Cloud
+
+Interest level: 9
+
+Knowledge level: 3
+
+Why do you want to apply for this organization?
+I want to apply for this organisation as I am interested in artifitial intelligence. I am hopeful 
+that I would be able to increase my skills to a level the organization desires and make contribtions and become a better programmer.
+
+What if this organization rejects your application next year? How will you respond?
+I would try again next year after improving my knowledge.
+
+What if this organization does not return for GSoC 2019? Would your effort be in vain?
+I would be disappointed, but my efforts would never be in vain as the contributions I make would help me improve as a 
+web developer and programmer.
+
+Amount of time which can be put in for preperation: 2.5 - 3 hrs
