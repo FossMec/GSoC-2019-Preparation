@@ -1,0 +1,26 @@
+
+#1 Coala
+	tech-django,python,antlr,emberjs,reactjs
+	interest level-9
+	knowledge-4
+	why?-the idea seems interesting to have a language independant code analyser
+	rejection wouldnt affect much..focused on learning new stuff
+	if org not there next time-doesnt matter,focusing on learning and contributing wherever i can
+#2 BEEWARE
+	tech-python,android,javascript,java
+	interest level-9
+	knowledge-4
+	why-interesting idea and also cause interest to learn javascript and java and implement it
+	rejection wouldnt affect much..focused on learning new stuff
+	if org not there next time-focusing on learning and contributing wherever i can
+
+#3 QUILL
+	tech-ruby,rails,javascript
+	interest level-8
+	knowledge-4
+	why?-interested in web development
+	rejection wouldnt affect much..focused on learning new stuff
+	if org not there next time-doesnt matter,focusing on learning and contributing wherever i can
+
+time planned working for gsoc per week-3-4 hrs 
+	
